@@ -6,7 +6,7 @@
   "types": "./index.d.ts",
   "scripts": {
     "link": "@mauron85/react-native-background-geolocation/scripts/postlink.js",
-    "unlink": "@mauron85/react-native-background-geolocation/scripts/postunlink.js"
+    "unlink": "@mauron85/react-native-background-geolocation/scripts/postunlink.js",
   },
   "repository": {
     "type": "git",
